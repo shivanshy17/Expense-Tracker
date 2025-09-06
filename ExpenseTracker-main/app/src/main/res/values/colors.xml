@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@android:color/holo_blue_dark</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="login">#D0426B</color>
+    <color name="dashboard_color">@drawable/background_color</color>
+    <color name="income_color">#4CAF50</color>
+    <color name="expanse_color">#F44336</color>
+
+</resources>

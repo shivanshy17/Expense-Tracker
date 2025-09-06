@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="log_in">Log In</string>
+    <string name="Sign_In">Sign In</string>
+    <string name="forget_password">Forgot Password?</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="password">Password:</string>
+    <string name="Add_password">Add password:</string>
+    <string name="Confirm_password">Confirm password:</string>
+    <string name="email">Email:</string>
+    <string name="title_Register">Register</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="Already_have_an_account_sign_in">Already have an account? Sign In</string>
+    <string name="title_activity_reset">ResetActivity</string>
+    <string name="income">Income</string>
+    <string name="expense">Expense</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="expense_tracker">Expense Tracker</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dashboard_fragment">Dashboard</string>
+    <string name="income_fragment">Income</string>
+    <string name="expense_fragment">Expense</string>
+    <string name="amount">AMOUNT:</string>
+    <string name="type">TYPE:</string>
+    <string name="note">NOTE:</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="income_label">Income</string>
+    <string name="income_amount">00000.00</string>
+    <string name="dummy_date">04 May 2025</string>
+</resources>
